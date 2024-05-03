@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geo</h1>
 
 <h3 align="center">A passionate Fullstack developper in JS | React | Node</h3>
-
 <br/>
 <h4 align="center">I'm specialized in the use of React Language, front enthusiastic. I love everything about nice design websites.</h4>
 <br/>
