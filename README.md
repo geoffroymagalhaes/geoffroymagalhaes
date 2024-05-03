@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack developper in JS | React | Node</h3>
 <br/>
 <h4 align="center">I'm specialized in the use of React Language, front enthusiastic. I love everything about nice design websites.</h4>
-<br/>
+
 - 🌱 I’m currently learning **TypeScript and Next JS**
 
 - 📫 How to reach me **geoffroymagalhaes23@gmail.com**
