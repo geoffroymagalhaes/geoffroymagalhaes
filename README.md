@@ -1,15 +1,27 @@
 <h1 align="center">Hi 👋, I'm Geo</h1>
 
 
+
+
+
 <h3 align="center">A passionate Fullstack developper in JS | React | Node</h3>
+
+
+
 
 
 <h4 align="center">I'm specialized in the use of React Language, front enthusiastic. I love everything about nice design websites.</h4>
 
 
+
+
+
 - 🌱 I’m currently learning **TypeScript and Next JS**
 
 - 📫 How to reach me **geoffroymagalhaes23@gmail.com**
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
